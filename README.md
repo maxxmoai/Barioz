@@ -7,6 +7,8 @@
 📍 **Localisation :** Plateau du Barioz, 38830 Crêts en Belledonne  
 📞 **Téléphone foyer :** 04 76 71 06 47
 
+
+🌐 **Nouveaux Site en ligne :** [maxxmoai.github.io/Barioz/](https://maxxmoai.github.io/Barioz/)
 ---
 
 ## 📁 Structure du projet
