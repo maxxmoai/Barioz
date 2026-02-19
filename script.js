@@ -19,8 +19,8 @@
 const CONFIG = {
   APPS_SCRIPT_URL: 'https://script.google.com/macros/s/AKfycbyzpH3msOatusrPekH-1doTWO1xoUGrMWJgo2KTXVIi4vGuFlIF1TMV40uT8EFiWKSF/exec',
   SHEET_ID:        '1DPKFwYiECT1NEeNHAdjZnwYRcfeaWX4FdM6AX2x4U_E',
-  LAT:             45.205,
-  LON:             5.965,
+  LAT:             45.32476187,
+  LON:             6.04727947,
   ELEVATION:       1400,
   WEBCAM_URL:      'https://cretdupoulet.epok.network/cret_du_poulet.jpg',
   FOYER_OPEN:      9,
