@@ -700,10 +700,10 @@ const TARIFS = {
     forfait_seul:    { demi:9, journee:9, detail_demi:'Forfait journée adulte (matériel personnel)', detail_journee:'Forfait journée adulte (matériel personnel)' },
   },
   junior: {
-    fond_skating:    { demi:10, journee:12, detail_demi:'Forfait inclus* + Location skating ½j 10€', detail_journee:'Forfait inclus* + Location skating journée 12€' },
-    fond_alternatif: { demi:8,  journee:10, detail_demi:'Forfait inclus* + Location alternatif ½j 8€', detail_journee:'Forfait inclus* + Location alternatif journée 10€' },
+    fond_skating:    { demi:16, journee:18, detail_demi:'Forfait 6€ + Location skating ½j 10€', detail_journee:'Forfait 6€ + Location skating journée 12€' },
+    fond_alternatif: { demi:14,  journee:16, detail_demi:'Forfait 6€ + Location alternatif ½j 8€', detail_journee:'Forfait 6€ + Location alternatif journée 10€' },
     raquettes:       { demi:5.5, journee:5.5, detail_demi:'Raquette 2,50€ + Location baby 3€', detail_journee:'Raquette 2,50€ + Location baby 3€' },
-    forfait_seul:    { demi:0, journee:0, detail_demi:'Accès gratuit junior (6–16 ans)*', detail_journee:'Accès gratuit junior (6–16 ans)*' },
+    forfait_seul:    { demi:6, journee:6, detail_demi:'Forfait journée juniors (matériel personnel)', detail_journee:'Forfait journée juniors (matériel personnel)' },
   },
   reduit: {
     fond_skating:    { demi:16.5, journee:18.5, detail_demi:'Tarif réduit 6,50€ + Location skating ½j 10€', detail_journee:'Tarif réduit 6,50€ + Location skating journée 12€' },
